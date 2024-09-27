@@ -1,0 +1,290 @@
+[
+    {
+        "edad": 43,
+        "peso": 87,
+        "altura": 188.0,
+        "sexo": "Hombre",
+        "muneca": 12.2,
+        "biceps": 35.8
+    },
+    {
+        "edad": 65,
+        "peso": 80,
+        "altura": 174.0,
+        "sexo": "Hombre",
+        "muneca": 12.0,
+        "biceps": 35.0
+    },
+    {
+        "edad": 45,
+        "peso": 82,
+        "altura": 176.5,
+        "sexo": "Hombre",
+        "muneca": 11.2,
+        "biceps": 38.5
+    },
+    {
+        "edad": 37,
+        "peso": 73,
+        "altura": 180.3,
+        "sexo": "Hombre",
+        "muneca": 11.2,
+        "biceps": 32.2
+    },
+    {
+        "edad": 55,
+        "peso": 74,
+        "altura": 167.6,
+        "sexo": "Hombre",
+        "muneca": 11.8,
+        "biceps": 32.9
+    },
+    {
+        "edad": 33,
+        "peso": 85,
+        "altura": 188.0,
+        "sexo": "Hombre",
+        "muneca": 12.4,
+        "biceps": 38.5
+    },
+    {
+        "edad": 25,
+        "peso": 73,
+        "altura": 180.3,
+        "sexo": "Hombre",
+        "muneca": 10.6,
+        "biceps": 38.3
+    },
+    {
+        "edad": 35,
+        "peso": 76,
+        "altura": 167.6,
+        "sexo": "Hombre",
+        "muneca": 11.3,
+        "biceps": 35.0
+    },
+    {
+        "edad": 28,
+        "peso": 65,
+        "altura": 183.0,
+        "sexo": "Hombre",
+        "muneca": 10.2,
+        "biceps": 32.1
+    },
+    {
+        "edad": 26,
+        "peso": 90,
+        "altura": 183.0,
+        "sexo": "Hombre",
+        "muneca": 12.0,
+        "biceps": 40.4
+    },
+    {
+        "edad": 43,
+        "peso": 89,
+        "altura": 179.1,
+        "sexo": "Hombre",
+        "muneca": 11.3,
+        "biceps": 36.5
+    },
+    {
+        "edad": 30,
+        "peso": 62,
+        "altura": 170.2,
+        "sexo": "Hombre",
+        "muneca": 11.5,
+        "biceps": 34.2
+    },
+    {
+        "edad": 26,
+        "peso": 82,
+        "altura": 177.8,
+        "sexo": "Hombre",
+        "muneca": 11.5,
+        "biceps": 35.2
+    },
+    {
+        "edad": 51,
+        "peso": 79,
+        "altura": 179.1,
+        "sexo": "Hombre",
+        "muneca": 11.8,
+        "biceps": 34.0
+    },
+    {
+        "edad": 30,
+        "peso": 98,
+        "altura": 190.5,
+        "sexo": "Hombre",
+        "muneca": 10.7,
+        "biceps": 34.8
+    },
+    {
+        "edad": 24,
+        "peso": 84,
+        "altura": 177.8,
+        "sexo": "Hombre",
+        "muneca": 11.5,
+        "biceps": 38.6
+    },
+    {
+        "edad": 35,
+        "peso": 83,
+        "altura": 180.3,
+        "sexo": "Hombre",
+        "muneca": 11.1,
+        "biceps": 36.4
+    },
+    {
+        "edad": 37,
+        "peso": 83,
+        "altura": 180.3,
+        "sexo": "Hombre",
+        "muneca": 10.5,
+        "biceps": 34.0
+    },
+    {
+        "edad": 22,
+        "peso": 51,
+        "altura": 161.2,
+        "sexo": "Mujer",
+        "muneca": 9.2,
+        "biceps": 24.3
+    },
+    {
+        "edad": 20,
+        "peso": 59,
+        "altura": 167.5,
+        "sexo": "Mujer",
+        "muneca": 9.9,
+        "biceps": 27.8
+    },
+    {
+        "edad": 19,
+        "peso": 49,
+        "altura": 159.5,
+        "sexo": "Mujer",
+        "muneca": 8.9,
+        "biceps": 24.0
+    },
+    {
+        "edad": 25,
+        "peso": 63,
+        "altura": 157.0,
+        "sexo": "Mujer",
+        "muneca": 9.5,
+        "biceps": 28.0
+    },
+    {
+        "edad": 21,
+        "peso": 53,
+        "altura": 155.8,
+        "sexo": "Mujer",
+        "muneca": 9.1,
+        "biceps": 26.9
+    },
+    {
+        "edad": 23,
+        "peso": 59,
+        "altura": 170.0,
+        "sexo": "Mujer",
+        "muneca": 10.0,
+        "biceps": 26.5
+    },
+    {
+        "edad": 26,
+        "peso": 47,
+        "altura": 159.1,
+        "sexo": "Mujer",
+        "muneca": 9.4,
+        "biceps": 24.1
+    },
+    {
+        "edad": 22,
+        "peso": 69,
+        "altura": 166.0,
+        "sexo": "Mujer",
+        "muneca": 10.7,
+        "biceps": 29.2
+    },
+    {
+        "edad": 28,
+        "peso": 66,
+        "altura": 176.2,
+        "sexo": "Mujer",
+        "muneca": 9.8,
+        "biceps": 29.0
+    },
+    {
+        "edad": 40,
+        "peso": 75,
+        "altura": 160.2,
+        "sexo": "Mujer",
+        "muneca": 11.5,
+        "biceps": 33.6
+    },
+    {
+        "edad": 32,
+        "peso": 55,
+        "altura": 172.5,
+        "sexo": "Mujer",
+        "muneca": 8.6,
+        "biceps": 24.8
+    },
+    {
+        "edad": 25,
+        "peso": 54,
+        "altura": 170.9,
+        "sexo": "Mujer",
+        "muneca": 9.7,
+        "biceps": 25.4
+    },
+    {
+        "edad": 25,
+        "peso": 62,
+        "altura": 172.9,
+        "sexo": "Mujer",
+        "muneca": 9.2,
+        "biceps": 25.9
+    },
+    {
+        "edad": 29,
+        "peso": 42,
+        "altura": 153.4,
+        "sexo": "Mujer",
+        "muneca": 8.3,
+        "biceps": 24.0
+    },
+    {
+        "edad": 22,
+        "peso": 50,
+        "altura": 160.0,
+        "sexo": "Mujer",
+        "muneca": 8.6,
+        "biceps": 25.6
+    },
+    {
+        "edad": 25,
+        "peso": 49,
+        "altura": 147.2,
+        "sexo": "Mujer",
+        "muneca": 9.0,
+        "biceps": 26.0
+    },
+    {
+        "edad": 23,
+        "peso": 49,
+        "altura": 168.2,
+        "sexo": "Mujer",
+        "muneca": 9.6,
+        "biceps": 23.5
+    },
+    {
+        "edad": 37,
+        "peso": 73,
+        "altura": 175.0,
+        "sexo": "Mujer",
+        "muneca": 11.0,
+        "biceps": 31.0
+    }
+]
